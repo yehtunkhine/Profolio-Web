@@ -1,5 +1,3 @@
-# Profolio-Web
-
 # Personal Profolio Website in React
 
 Check out my [WebPage](https://ky-profile-web.herokuapp.com/) here.
