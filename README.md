@@ -2,10 +2,10 @@
 
 Check out my [WebPage](https://ky-profile-web.herokuapp.com/) here.
 
-![alt websiteImage1](https://github.com/yehtunkhine/Profolio-Web/blob/master/src/assets/img/profile1.png)
-![alt websiteImage1](https://github.com/yehtunkhine/Profolio-Web/blob/master/src/assets/img/profile2.png)
-![alt websiteImage1](https://github.com/yehtunkhine/Profolio-Web/blob/master/src/assets/img/profile3.png)
-![alt websiteImage1](https://github.com/yehtunkhine/Profolio-Web/blob/master/src/assets/img/profile4.png)
+![alt websiteImage1](https://github.com/yehtunkhine/Profolio-Web/blob/main/src/assets/img/profile1.png)
+![alt websiteImage1](https://github.com/yehtunkhine/Profolio-Web/blob/main/src/assets/img/profile2.png)
+![alt websiteImage1](https://github.com/yehtunkhine/Profolio-Web/blob/main/src/assets/img/profile3.png)
+![alt websiteImage1](https://github.com/yehtunkhine/Profolio-Web/blob/main/src/assets/img/profile4.png)
 
 ## Built using:
 
