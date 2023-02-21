@@ -13,6 +13,7 @@ export const Contact = () => {
   }
   const [formDetails, setFormDetails] = useState(formInitialDetails);
   const [buttonText, setButtonText] = useState('Send');
+  //eslint-disable-next-line
   const [status, setStatus] = useState({});
 
   const onFormUpdate = (category, value) => {
