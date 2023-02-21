@@ -1,6 +1,6 @@
 # Personal Profolio Website in React
 
-## Check out my [WebPage](https://ky-profile-web.herokuapp.com/) here.
+## Check out my [WebPage](https://ky-profile.netlify.app/) here.
 
 ![alt websiteImage1](https://github.com/yehtunkhine/Profolio-Web/blob/main/src/assets/img/profile1.png)
 ![alt websiteImage1](https://github.com/yehtunkhine/Profolio-Web/blob/main/src/assets/img/profile2.png)
