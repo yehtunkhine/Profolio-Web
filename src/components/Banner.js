@@ -53,6 +53,8 @@ export const Banner = () => {
     }
   }
 
+  
+
   return (
     <section className="banner" id="home">
       <Container>
@@ -64,11 +66,17 @@ export const Banner = () => {
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Ky`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Computer Science","Economic" ]'><span className="wrap">{text}</span></span>{` student`}</h1>
                   <p>A passionate individual looking for a Co-op / internship opportunity in a software development and web development area, flexible to working hours and environments and open to all opportunity.</p>
-                  <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
+                  <button onClick={() => {
+                    const element = document.getElementById("connect")
+                    if (element){
+                      element.scrollIntoView({behavior:'smooth'})
+                    }
+                  }}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
           </Col>
           <Col xs={12} md={6} xl={5}>
+            
               <img src={headerImg} alt="Header Img"/>
           </Col>
         </Row>

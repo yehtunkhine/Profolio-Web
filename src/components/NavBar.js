@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import logo from '../assets/img/logo.svg';
-
 import { SocialIcon } from 'react-social-icons';
 import { HashLink } from 'react-router-hash-link';
 import {
@@ -49,8 +48,8 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-              <SocialIcon url = "https://github.com/yehtunkhine"/>
-              <SocialIcon url = "https://www.linkedin.com/in/yetunkhine-kai"/>
+                <SocialIcon url = "https://github.com/yehtunkhine"/>
+                <SocialIcon url = "https://www.linkedin.com/in/yetunkhine-kai"/>
               </div>
               <HashLink to='#connect'>
                 <button className="vvd"><span>Let’s Connect</span></button>
